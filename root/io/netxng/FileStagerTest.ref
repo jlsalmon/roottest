@@ -1,2 +1,7 @@
 
 Processing runFileStagerTest.C...
+Error in <TNetXNGSystem::GetPathInfo>: Error: Unable to locate /localdisk/xrootd/test/nonexisting.root; No such file or directory
+File is staged: false
+File is staged: true
+Endpoint: [::137.138.40.143]:1094
+(Int_t)0
